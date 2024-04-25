@@ -115,5 +115,6 @@ class ProfileView(View):
 
 
 # 404 page nimagadir xartolik beryapdi
+
 def my_custom_404_view(request, exception):
     return render(request, 'vegetable_web/404.html', status=404)

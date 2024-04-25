@@ -33,7 +33,7 @@ DEBUG = True
 
 LOGIN_URL = 'login'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['178.128.41.226']
 
 
 # Application definition

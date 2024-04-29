@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # extensions
-    'import_export',
+    # 'import_export',
     # apps
     'customers',
     'products',

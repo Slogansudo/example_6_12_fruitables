@@ -7,4 +7,4 @@ COPY requirement.txt requirement.txt
 RUN pip install --upgrade pip
 RUN pip install -r requirement.txt
 
-COPY .. .
+COPY . .
